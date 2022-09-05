@@ -1,0 +1,12 @@
+div{
+    width: 500px;
+    height: 250px;
+    background-color: tomato;
+    scale: 1.1;
+    margin: 2rem;
+    transition: all 0.9s;
+}
+div:hover{
+    transition: all 0.9s;
+    rotate: 45deg;
+}
